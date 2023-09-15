@@ -9,5 +9,4 @@ class PessoaFisica extends Pessoa {
     get _cpf() {
         return this.cpf;
     }
-
 }
